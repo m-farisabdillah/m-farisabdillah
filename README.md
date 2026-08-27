@@ -34,8 +34,6 @@ Saya adalah seorang mahasiswa Informatika yang memiliki minat besar di bidang **
     Kumpulan karya dan proyek saya secara lengkap yang mencakup hasil eksplorasi *web development* maupun desain UI/UX.
 *   🌍 **[Jajal.in](#)** 
     Platform web kolaboratif yang dikembangkan oleh tim beranggotakan 4 orang. Platform ini berfokus untuk mengeksplorasi dan mempromosikan "hidden gem" atau wisata lokal yang belum banyak diketahui publik. 
-*   ☁️ **[Faris Abdillah II Cloud](#)** 
-    Aplikasi penyimpanan *file* berbasis web (Cloud Storage) pribadi yang dilengkapi dengan fitur *upload* khusus dan pelacakan progres.
 
 *(Catatan: Kamu bisa mengganti tanda `#` pada Jajal.in dan Cloud Storage dengan link repository GitHub aslinya jika ada).*
 
@@ -43,9 +41,7 @@ Saya adalah seorang mahasiswa Informatika yang memiliki minat besar di bidang **
 
 ### 📊 Statistik GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-farisabdillah&show_icons=true&theme=tokyonight&locale=id" alt="Statistik GitHub Faris" />
-</p>
+![Statistik GitHub Faris](https://github-readme-stats.vercel.app/api?username=m-farisabdillah&show_icons=true&theme=tokyonight&locale=id)
 
 ---
 
