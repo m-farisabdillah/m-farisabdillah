@@ -35,8 +35,6 @@ Saya adalah seorang mahasiswa Informatika yang memiliki minat besar di bidang **
 *   🌍 **[Jajal.in](#)** 
     Platform web kolaboratif yang dikembangkan oleh tim beranggotakan 4 orang. Platform ini berfokus untuk mengeksplorasi dan mempromosikan "hidden gem" atau wisata lokal yang belum banyak diketahui publik. 
 
-*(Catatan: Kamu bisa mengganti tanda `#` pada Jajal.in dan Cloud Storage dengan link repository GitHub aslinya jika ada).*
-
 ---
 
 ### 📊 Statistik GitHub
