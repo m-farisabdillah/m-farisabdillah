@@ -1,26 +1,26 @@
-# Hi there, I'm Muhamad Faris Abdillah 👋
+# Halo, Saya Muhamad Faris Abdillah 👋
 
-### 👨‍💻 Informatics Student & Web Developer
+### 👨‍💻 Mahasiswa Informatika & Web Developer
 
-I am a passionate Informatics student with a strong focus on **Web Development**. I enjoy building interactive, user-friendly applications and solving complex problems through code. When I'm not coding, you can usually find me analyzing financial markets and exploring stock investments.
-
----
-
-### 🚀 What I'm Up To
-- 🎓 Currently studying Informatics.
-- 💻 Focusing my deep dive into **React.js** and **C++**.
-- 🤝 Actively collaborating on impactful web projects.
-- 📈 Exploring the intersection of technology and economics (stock market & investment).
+Saya adalah seorang mahasiswa Informatika yang memiliki minat besar di bidang **Web Development**. Saya sangat antusias dalam membangun aplikasi web yang interaktif, *user-friendly*, dan memecahkan masalah melalui barisan kode. Di luar aktivitas *coding*, saya juga memiliki ketertarikan untuk menganalisis pasar keuangan dan mengeksplorasi dunia investasi saham.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 Kesibukan Saya Saat Ini
+- 🎓 Sedang menempuh pendidikan S1 Informatika.
+- 💻 Sedang fokus mendalami **React.js** dan **C++**.
+- 🤝 Aktif berkolaborasi dalam proyek-proyek pengembangan web.
+- 📈 Mengeksplorasi dunia teknologi dan ekonomi (pasar saham & investasi).
 
-**Top Priorities:**  
+---
+
+### 🛠️ Teknologi & Tools
+
+**Fokus Utama:**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**Other Technologies:**  
+**Teknologi Lainnya:**  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -28,27 +28,29 @@ I am a passionate Informatics student with a strong focus on **Web Development**
 
 ---
 
-### 💡 Featured Projects
+### 💡 Proyek Unggulan
 
+*   💼 **[Website Portofolio Pribadi](https://portofolio-faris30.vercel.app/)**
+    Kumpulan karya dan proyek saya secara lengkap yang mencakup hasil eksplorasi *web development* maupun desain UI/UX.
 *   🌍 **[Jajal.in](#)** 
-    A collaborative web platform built by a team of 4. It focuses on uncovering and promoting local tourism "hidden gems" that are not widely known to the public. 
+    Platform web kolaboratif yang dikembangkan oleh tim beranggotakan 4 orang. Platform ini berfokus untuk mengeksplorasi dan mempromosikan "hidden gem" atau wisata lokal yang belum banyak diketahui publik. 
 *   ☁️ **[Faris Abdillah II Cloud](#)** 
-    A personal web-based file storage application featuring custom upload logic and progress tracking.
+    Aplikasi penyimpanan *file* berbasis web (Cloud Storage) pribadi yang dilengkapi dengan fitur *upload* khusus dan pelacakan progres.
 
-*(Note: You can replace the `#` in the brackets with the actual repository or live demo links).*
+*(Catatan: Kamu bisa mengganti tanda `#` pada Jajal.in dan Cloud Storage dengan link repository GitHub aslinya jika ada).*
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Statistik GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight" alt="Faris's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m-farisabdillah&show_icons=true&theme=tokyonight&locale=id" alt="Statistik GitHub Faris" />
 </p>
 
 ---
 
-### 📫 Let's Connect!
-Feel free to reach out for collaborations, project discussions, or just a casual chat about web dev and the stock market:
+### 📫 Mari Terhubung!
+Jangan ragu untuk menyapa! Saya sangat terbuka untuk kolaborasi, diskusi proyek web, maupun ngobrol santai seputar dunia IT dan pasar saham:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/faris_abdill4h)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281229014883)
